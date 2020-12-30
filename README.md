@@ -8,8 +8,9 @@ java
 
 ### To Use:
 
-* `git clone https://github.com/gamblinflanagan/caesar-cypher/`
-* `run the file CaesarMain.java in any python IDE`
+* Open a terminal shell and navigate to the desired directory 
+* `git clone https://github.com/gamblinflanagan/caesar-cypher.git`
+* `run the file CaesarMain.java in any java IDE`
 
 ### To Run In Linux/Unix Command Line:
 
